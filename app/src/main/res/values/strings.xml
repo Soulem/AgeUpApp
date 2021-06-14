@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgeUpApp</string>
+    <string name="current_age_resorce">Current Age</string>
+    <string name="age_up_resorce">Age Up</string>
+    <string name="restart_resorce">Restart</string>
+    <string name="age_up_x10_resource">x10</string>
+</resources>
